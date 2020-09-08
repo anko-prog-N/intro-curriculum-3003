@@ -13,4 +13,3 @@ function trib(n) {
 for (let i = 0; i <= length; i++) {
     console.log(trib(i));
 }
-console.log(`Memo Size: ${memo.size}`);
